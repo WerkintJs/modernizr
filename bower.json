@@ -1,0 +1,20 @@
+{
+  "name": "modernizr-amd",
+  "version": "2.8.3",
+  "authors": [
+    "Vladimir Odesskij <odesskij1992@gmail.com>"
+  ],
+  "description": "modernizr with AMD support",
+  "main": "modernizr.js",
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
